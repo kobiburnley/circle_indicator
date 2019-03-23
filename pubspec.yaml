@@ -4,6 +4,9 @@ version: 0.0.7
 homepage: https://www.long1.eu
 author: long1eu <home@long1.eu>
 
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
 #dependencies:
 #  path: ^1.4.1
 dependencies:
